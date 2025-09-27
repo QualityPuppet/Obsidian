@@ -36,7 +36,7 @@ After this, they retired from adventuring, with Ana using her skill at manipulat
 Within the next few centuries Allie and Ana ended up marrying[^7][^8], and soon after Allie and Ana passed on peacefully, committing ritual suicide at the age of 558.
 
 ## Reincarnation 4
--In this incarnation, Allie managed to successfully lose all her memories, with the sole exception of Ana
+In this incarnation, Allie managed to successfully lose all her memories, with the sole exception of Ana
 She felt a distinct understanding that she was probably meant to be some form of mage, and promptly decided that the idea bored her, and if she'd really mastered magic then perhaps this time she should try something new, after all, for all she knew this could have been her tenth reincarnation, and whatever she did last time obviously didn't work, otherwise she'd still have her memories[^11]
 
 In this incarnation, Allie decided to become a ranger, to Ana's immense confusion when she finally managed to leverage the connections she'd built over the past century as a daughter of a minor noble house to find Allie
@@ -47,15 +47,25 @@ Soul eaters were now embedded in the world, and reincarnation was getting rather
 When one of the two were to die, the other would simply commit suicide and they would both pass on, and if one's soul gets eaten, the other will make every effort into tracking down their soul gem and recovering them, and torturing the culprit[^9][^10].
  
 Allie, once again, remained bereft of her memories from reincarnation four bar the memory of Ana[^12]
-She currently lives a charmed life, despite her general demeanour she has a few people she cares for (a record, for her), in particular a particularly exuberant guard lieutenant who insisted on being friends with her, two court staff (a mage, an alchemist), a noble inventor, and a reasonably close friend in one of her maids(/aides who get paid overtime for picking up her admin work)
+She currently lives a charmed life, despite her general demeanour she has a few people she cares for (a record, for her), in particular 
+- A particularly [[Tomoe|exuberant guard lieutenant]] who insisted on being friends with her
+- Two court staff (a mage, an alchemist)
+- [[Darian Solwyn|A noble inventor]]
+- One of her maids[^16][^17]
 
-Notably the maid enjoys being friends with Allie, but takes great efforts to not engage in any physical affection for fear of pissing off Ana (and by physical affection I mean a handshake is about the limit, and she is still severely paranoid about that)
-Ana, in this incarnation, is incredibly overprotective of Allie after her previous untimely death  
-She was fairly manipulative towards Allie before, by virtue of her nature, but in this incarnation she's become borderline controlling for fear of losing her to a demon
-Predictably, she is not taking Allie's month long absence well.
-At a certain point, despite living in luxury, Allie was pushed towards acting more like royalty, at the same time as she started having ideas creep into her head about reclaiming some of her memories, and perhaps finding some people from her past, and the things she'd made
+Despite all this, Allie has decided to take a journey for multiple reasons.
+To begin, Ana, being of House Nymariel, and given their determination to pass to the afterlife at the conclusion of this iteration of Ana and Allie, wants to go out with a bang, and luckily for her she's in the *perfect* position to do so.
+In order to achieve this, she believes she has to be perfect, a paragon of humility and justice, a champion of the people, and importantly, behind closed doors, absolutely and unabashedly **ruthless** in order to shield Allie from the public[^18].
+Unfortunately for Allie, regardless of Ana's efforts she needs to have a minimum capacity for etiquette, social norms, and ability to host and interact with nobles, which has lead to a large amount of training for her that she cannot simply delegate to her aides.
+As far as Allie is concerned, if it wasn't for her wife being by her side, this would be her own personal hell.
+To follow, Allie, from the recounts of Ana, understands that in past lives she had more than a small amount of impact on the world.
+She wishes to understand the impact that she had, 
+
+
+Ana, in this incarnation, is incredibly overprotective of Allie after her previous untimely death.
+She was fairly manipulative towards Allie before, by virtue of her nature, but in this incarnation she's become borderline controlling for fear of losing her to a demon[^15].
 Overall, she wants to understand her impact on the world before she leaves it forever
-With the help of absolutely no-one (because if anyone realised she was leaving for a secondment, she'd immediately have three layers of magical tracking put on her), Allie packed a bag with her (read: her wife's) stuff and an invention she'd been tinkering with, she left a letter on the desk and around 10pm, simply left.
+With the help of absolutely no-one (because if anyone realised she was leaving for a secondment, she'd immediately have three layers of magical tracking put on her), Allie packed a bag with her stuff[^14] and an invention she'd been tinkering with, she left a letter on the desk and around 10pm, simply left.
 She was only able to leave undetected by virtue of extreme luck, she'd accidentally picked the exact time a guard changeover was happening, and her wife was on a 3 day business trip[^13].
 Unfortunately for quite literally every single person involved, she did not do that  
 Scratch that, fortunately for Quel'anthir, who are banking on finding her first to gain a significant favour from Nymariel.
@@ -82,3 +92,15 @@ Scratch that, fortunately for Quel'anthir, who are banking on finding her first 
 [^12]: This time they weren't embedded in Ana's conscious, though the fourth and current incarnation still has incarnations 1 through 3 of Allie's buried in there somewhere
 
 [^13]: If she'd simply asked someone to leave, they probably would have let her by arranging her wife's work trips in a way that she could accompany and explore, but at this point she's probably got about a minimum of a couple year's trust to build back up for that after her disappearing stunt
+
+[^14]: Ana's Stuff
+
+[^15]: Predictably, she is not taking Allie's month long absence well.
+
+[^16]: Note: aides who get paid overtime for picking up her admin work
+
+[^17]: Said maid is particularly concerned when engaging in any physical interaction with Allie, and avoids things like hugs.
+	Luckily for her, that is fine with Allie.
+
+[^18]: To her, if she can be visible in the eyes of the people, she can allow Allie to exist behind closed doors, in the shadows, meaning her dear wife can be relieved of that pressure to work on civic projects that help the people.
+	In that way, she must be the face of her house, for Allie to be allowed to be the brains.

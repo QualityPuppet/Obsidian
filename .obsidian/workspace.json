@@ -6,7 +6,7 @@
       {
         "id": "a6b014121145b598",
         "type": "tabs",
-        "dimension": 56.154822335025386,
+        "dimension": 75.78369905956113,
         "children": [
           {
             "id": "b8a56e118707419d",
@@ -70,7 +70,7 @@
       {
         "id": "4afe74e2a81696c6",
         "type": "tabs",
-        "dimension": 43.845177664974614,
+        "dimension": 24.21630094043887,
         "children": [
           {
             "id": "84fd9295add958c2",
@@ -241,13 +241,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21357c7f5478548a",
+  "active": "8e0979ff23109b00",
   "lastOpenFiles": [
-    "Allie/Canvas - Allie!.canvas",
     "Allie/Reincarnations.md",
+    "Allie/Allie's Acquaintances/Cormac.md",
+    "Allie/Allie's Acquaintances/Galadrius Embercrest-Sunwarden.md",
+    "Allie/Allie's Acquaintances/Korvak.md",
+    "Allie/Allie's Acquaintances/Kretos.md",
+    "Allie/Allie's Opinions.md",
+    "Allie/Allie's Acquaintances",
+    "Allie/Ryko Meko.md",
+    "Allie/Allie's Family and Friends/Darian Solwyn.md",
     "Allie/Allie's Family and Friends/Anarella Nymariel.md",
     "Allie/Alaria Nymariel - The Basics.md",
-    "Allie/Ryko Meko.md",
+    "Allie/Canvas - Allie!.canvas",
+    "Allie/Allie's Family and Friends/Tomoe.md",
     "TODO",
     "Untitled",
     "Allie/Allie's Family and Friends",
