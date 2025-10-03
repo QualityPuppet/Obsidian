@@ -1,4 +1,4 @@
-Ryko Meko didn't like this.  
+Ryko Meko didn't like [[Alaria Nymariel|Allie's marriage]].  
 He was Allie's senior by about three decades, the oldest unmarried member of the Meko household, Allie wasn't mature, being a decade shy of maturity by Elven standards, and, to his eyes, untrained in politics, his family had traded away their power for Allie's own whims.
 
 His father had traded away their criminal business for a claim to royalty and political power, but the connections he'd made with the underworld didn't vanish, there was no retribution, save for a few particularly egregious offenders who'd flaunted their superiority over the enforcement branches of the elven houses, quietly taken as they travelled outside of their hideouts.

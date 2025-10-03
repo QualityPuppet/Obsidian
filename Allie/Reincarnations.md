@@ -42,7 +42,7 @@ She felt a distinct understanding that she was probably meant to be some form of
 In this incarnation, Allie decided to become a ranger, to Ana's immense confusion when she finally managed to leverage the connections she'd built over the past century as a daughter of a minor noble house to find Allie
 Ana and Allie's time together was cut short quite quickly in this incarnation, as after about two and a half centuries together, Allie was fairly brutally dissected by a dragon, and upon learning this, Ana came to the logical conclusion that suicide was the only option, so as to not desync their ages.
 ## Reincarnation 5
-After their [[Alaria Nymariel - The Basics|marriage]], Ana and Allie had an in-depth talk.  
+After their [[Alaria Nymariel|marriage]], Ana and Allie had an in-depth talk.  
 Soul eaters were now embedded in the world, and reincarnation was getting rather boring.  
 When one of the two were to die, the other would simply commit suicide and they would both pass on, and if one's soul gets eaten, the other will make every effort into tracking down their soul gem and recovering them, and torturing the culprit[^9][^10].
  
@@ -59,12 +59,10 @@ In order to achieve this, she believes she has to be perfect, a paragon of humil
 Unfortunately for Allie, regardless of Ana's efforts she needs to have a minimum capacity for etiquette, social norms, and ability to host and interact with nobles, which has lead to a large amount of training for her that she cannot simply delegate to her aides.
 As far as Allie is concerned, if it wasn't for her wife being by her side, this would be her own personal hell.
 To follow, Allie, from the recounts of Ana, understands that in past lives she had more than a small amount of impact on the world.
-She wishes to understand the impact that she had, 
-
+She wishes to understand the impact that she had, she wants to explore the world
 
 Ana, in this incarnation, is incredibly overprotective of Allie after her previous untimely death.
 She was fairly manipulative towards Allie before, by virtue of her nature, but in this incarnation she's become borderline controlling for fear of losing her to a demon[^15].
-Overall, she wants to understand her impact on the world before she leaves it forever
 With the help of absolutely no-one (because if anyone realised she was leaving for a secondment, she'd immediately have three layers of magical tracking put on her), Allie packed a bag with her stuff[^14] and an invention she'd been tinkering with, she left a letter on the desk and around 10pm, simply left.
 She was only able to leave undetected by virtue of extreme luck, she'd accidentally picked the exact time a guard changeover was happening, and her wife was on a 3 day business trip[^13].
 Unfortunately for quite literally every single person involved, she did not do that  
@@ -83,24 +81,15 @@ Scratch that, fortunately for Quel'anthir, who are banking on finding her first 
 [^8]: And you thought the average shonen anime was slow burn romance, take that Frieren, I've got you beaten by at least 3 centuries.
 [^9]: Provided said culprit was da/emonic
 [^10]: These bitches will literally choose suicide as the first and only option on a regular basis, I swear to Desna that if a dog was barking slightly too loudly in the neighbourhood regularly and they found it quite annoying "well, nothing to be done, Allie get the poison, bad RNG go next"
-
-
 [^11]: She used a ritual designed for one person, but with two people.  
 	In theory Ana has all of Allie's memories, she's just unable to access them.  
 	Ana is blissfully unaware of this fact, and probably won't become aware without divine intervention, (and even if Ana found out she probably wouldn't tell Allie that. As much as she loves her, being her project for the next century sounds as enthralling as watching paint dry for a century, except she generally won't be mad at the paint for refusing to cuddle her because the paint thinks its research is more important)
-
 [^12]: This time they weren't embedded in Ana's conscious, though the fourth and current incarnation still has incarnations 1 through 3 of Allie's buried in there somewhere
-
 [^13]: If she'd simply asked someone to leave, they probably would have let her by arranging her wife's work trips in a way that she could accompany and explore, but at this point she's probably got about a minimum of a couple year's trust to build back up for that after her disappearing stunt
-
 [^14]: Ana's Stuff
-
 [^15]: Predictably, she is not taking Allie's month long absence well.
-
 [^16]: Note: aides who get paid overtime for picking up her admin work
-
 [^17]: Said maid is particularly concerned when engaging in any physical interaction with Allie, and avoids things like hugs.
 	Luckily for her, that is fine with Allie.
-
 [^18]: To her, if she can be visible in the eyes of the people, she can allow Allie to exist behind closed doors, in the shadows, meaning her dear wife can be relieved of that pressure to work on civic projects that help the people.
 	In that way, she must be the face of her house, for Allie to be allowed to be the brains.
