@@ -39,10 +39,14 @@
             "id": "21357c7f5478548a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Allie/Allie's Family and Friends/Anarella Nymariel.md",
+                "bFile": "Allie/Allie's Family and Friends/Anarella Nymariel.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Anarella Nymariel"
             }
           },
           {
@@ -217,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21357c7f5478548a",
+  "active": "92088b95e9751d55",
   "lastOpenFiles": [
     "Allie/Allie's Acquaintances/Korvak.md",
     "Allie/Allie's Acquaintances/Kretos.md",
