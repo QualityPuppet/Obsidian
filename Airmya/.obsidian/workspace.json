@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "79bb6f17213b5bea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "52d3bd42d63d7fc5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "55b5734e8913e107",
         "type": "tabs",
         "children": [
@@ -37,12 +21,14 @@
             "id": "4a4b0271b57fb8a1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "States/Central Continent/Ulban Empire.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Ulban Empire"
             }
           }
         ],
@@ -172,13 +158,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "1464a47d5bdc8e74",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,11 +184,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4a4b0271b57fb8a1",
   "lastOpenFiles": [
+    "2025-10-05.md",
+    "States/Central Continent/Ulban Empire.md",
+    "States/Central Continent/Duchy of Gler.md",
+    "States/Central Continent/Vylkale Republic.md",
+    "Cultures/Other/Stau (Gnomish).md",
+    "States/Central Continent/Kingdom of Cloud.md",
+    "States/Eastern Continent",
+    "States/Western Continent",
+    "States/C.md",
+    "States/Central Continent",
+    "Todo/States.md",
+    "Cultures/Other/Sarich (Draconic).md",
+    "Todo",
+    "Cultures/Other/Uruk (Orc).md",
+    "Cultures/Other/Sha (Goblins).md",
+    "Cultures/Other/Yotuun (Giant).md",
+    "Cultures/Other/Khazadur (Dwarven).md",
+    "Cultures/Human/Lan.md",
+    "Cultures/Human/Anorian.md",
+    "Cultures/Human/Ydar-Anorian.md",
+    "Cultures/Elven/Merin.md",
+    "Cultures/Elven/Nyhelian.md",
+    "Cultures/Elven/Ilselarie.md",
+    "Cultures/Elven/Alerian.md",
+    "Untitled.md",
+    "States/Giant",
+    "States/Dwarven",
+    "Cultures/Other",
+    "Cultures/Elven",
+    "Cultures/Human",
+    "Cultures",
     "Welcome.md"
   ]
 }

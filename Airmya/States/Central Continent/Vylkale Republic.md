@@ -1,0 +1,8 @@
+- Common Languages
+	- Common
+	- Dwarven
+	- Elven
+- Capital
+- Government
+- Leader
+- Legislature

@@ -1,0 +1,16 @@
+- Gnomish Burg
+- Satrapy of the [[Ulban Empire]]
+- Common Languages 
+	- Common
+	- Dwarven
+	- Elven
+	- Gnomish ⭐
+- Capital
+	- Breislach
+- Government
+	- Technocracy
+- Leader
+	- Vurver - Head Artificier of the Glerran guilds
+- Legislature
+	- House of Representatives
+		- Each guild gets a certain amount of representatives, proportional to their output, which is a complex byzantine set of calculations and weightings measuring economic output and technological innovation, heavily influenced by both internal politicking and the politics of their sponsoring empire, the Ulban Empire
