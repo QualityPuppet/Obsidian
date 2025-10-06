@@ -1,11 +1,16 @@
 - [ ] Complete State overhaul
 	- [ ] States
-		- [ ] Grand Duchy of Mosia
+		- [x] Grand Duchy of Mosia
+			- Now the Tsardom of Sotyn 
 		- [ ] Republic of Larond
 		- [ ] Principality of Lin
-		- [ ] Darogian Theocracy
-		- [ ] Imamah of Uyuya
-		- [ ] Duchy of Gler
+		- [x] Darogian Theocracy
+			- Now the Holy State of Dewbia
+			- Satrapy of Snowswind, the seat of religion
+		- [x] Imamah of Uyuya
+			- Now the Dezkuheahan Sultanate
+		- [x] Duchy of Gler
+			- Updated to have Gnomish culture
 		- [ ] Kingdom of Cloud?
 	- [ ] Emblems
 	- [ ] Important people

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "States/Central Continent/Ulban Empire.md",
+                "file": "Todo/States.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ulban Empire"
+              "title": "States"
             }
           }
         ],
@@ -190,19 +190,26 @@
   },
   "active": "4a4b0271b57fb8a1",
   "lastOpenFiles": [
-    "2025-10-05.md",
+    "Map/Airmya 2025-10-04-22-01.map",
+    "Map/Airmya 2025-10-04-23-21.map",
+    "Map/Airmya 2025-10-04-23-41.map",
+    "Map/Airmya 2025-10-05-21-37.map",
+    "Map/Airmya 2025-10-05-18-39.map",
+    "Map/Airmya 2025-10-05-18-25.map",
+    "Map/Airmya 2025-10-05-16-33.map",
+    "Map/Airmya 2025-10-05-00-49.map",
+    "Map/Airmya 2025-10-05-01-38.map",
+    "Map/Airmya 2025-10-05-01-47.map",
+    "Map/Airmya 2025-10-05-14-56.map",
     "States/Central Continent/Ulban Empire.md",
+    "2025-10-05.md",
     "States/Central Continent/Duchy of Gler.md",
     "States/Central Continent/Vylkale Republic.md",
     "Cultures/Other/Stau (Gnomish).md",
     "States/Central Continent/Kingdom of Cloud.md",
-    "States/Eastern Continent",
-    "States/Western Continent",
     "States/C.md",
-    "States/Central Continent",
     "Todo/States.md",
     "Cultures/Other/Sarich (Draconic).md",
-    "Todo",
     "Cultures/Other/Uruk (Orc).md",
     "Cultures/Other/Sha (Goblins).md",
     "Cultures/Other/Yotuun (Giant).md",
@@ -215,12 +222,6 @@
     "Cultures/Elven/Ilselarie.md",
     "Cultures/Elven/Alerian.md",
     "Untitled.md",
-    "States/Giant",
-    "States/Dwarven",
-    "Cultures/Other",
-    "Cultures/Elven",
-    "Cultures/Human",
-    "Cultures",
     "Welcome.md"
   ]
 }
