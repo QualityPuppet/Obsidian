@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/States.md",
+                "file": "States/Eastern Continent/Dezkuhehan Sultanate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "States"
+              "title": "Dezkuhehan Sultanate"
             }
           }
         ],
@@ -190,6 +190,22 @@
   },
   "active": "4a4b0271b57fb8a1",
   "lastOpenFiles": [
+    "States/Eastern Continent/Grand Duchy of Amaly.md",
+    "States/Eastern Continent/Dezkuhehan Sultanate.md",
+    "States/Eastern Continent/The Dominion of Von Harsten.md",
+    "States/Eastern Continent/Principality of Lin.md",
+    "States/Eastern Continent/Grand Nyhel.md",
+    "States/Eastern Continent/Principality of Thylit.md",
+    "States/Eastern Continent/Kingdom of Ghorok.md",
+    "States/Eastern Continent/Srurdan Free Territory.md",
+    "States/Eastern Continent/Republic of Larond.md",
+    "States/Eastern Continent/The Holy State of Dewbia & The Seat.md",
+    "States/Western Continent/The Thornese Marches.md",
+    "States/Western Continent/Queendom of Merrin.md",
+    "States/Western Continent/Veloran Federation.md",
+    "States/Western Continent/Protectorate of Crowden.md",
+    "States/Western Continent/Ydartian Empire.md",
+    "Todo/States.md",
     "Map/Airmya 2025-10-04-22-01.map",
     "Map/Airmya 2025-10-04-23-21.map",
     "Map/Airmya 2025-10-04-23-41.map",
@@ -200,7 +216,6 @@
     "Map/Airmya 2025-10-05-00-49.map",
     "Map/Airmya 2025-10-05-01-38.map",
     "Map/Airmya 2025-10-05-01-47.map",
-    "Map/Airmya 2025-10-05-14-56.map",
     "States/Central Continent/Ulban Empire.md",
     "2025-10-05.md",
     "States/Central Continent/Duchy of Gler.md",
@@ -208,20 +223,8 @@
     "Cultures/Other/Stau (Gnomish).md",
     "States/Central Continent/Kingdom of Cloud.md",
     "States/C.md",
-    "Todo/States.md",
     "Cultures/Other/Sarich (Draconic).md",
     "Cultures/Other/Uruk (Orc).md",
-    "Cultures/Other/Sha (Goblins).md",
-    "Cultures/Other/Yotuun (Giant).md",
-    "Cultures/Other/Khazadur (Dwarven).md",
-    "Cultures/Human/Lan.md",
-    "Cultures/Human/Anorian.md",
-    "Cultures/Human/Ydar-Anorian.md",
-    "Cultures/Elven/Merin.md",
-    "Cultures/Elven/Nyhelian.md",
-    "Cultures/Elven/Ilselarie.md",
-    "Cultures/Elven/Alerian.md",
-    "Untitled.md",
-    "Welcome.md"
+    "Cultures/Other/Sha (Goblins).md"
   ]
 }
