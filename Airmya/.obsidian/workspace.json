@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "States/Eastern Continent/Dezkuhehan Sultanate.md",
+                "file": "States/Eastern Continent/Confederation of Nestalia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dezkuhehan Sultanate"
+              "title": "Confederation of Nestalia"
             }
           }
         ],
@@ -190,22 +190,24 @@
   },
   "active": "4a4b0271b57fb8a1",
   "lastOpenFiles": [
-    "States/Eastern Continent/Grand Duchy of Amaly.md",
+    "States/Central Continent/Duchy of Gler.md",
+    "States/Central Continent/Ulban Empire.md",
+    "Todo/1.0.md",
+    "States/Eastern Continent/Dhogan Clans.md",
     "States/Eastern Continent/Dezkuhehan Sultanate.md",
+    "States/Eastern Continent/Grand Duchy of Amaly.md",
     "States/Eastern Continent/The Dominion of Von Harsten.md",
     "States/Eastern Continent/Principality of Lin.md",
     "States/Eastern Continent/Grand Nyhel.md",
-    "States/Eastern Continent/Principality of Thylit.md",
     "States/Eastern Continent/Kingdom of Ghorok.md",
     "States/Eastern Continent/Srurdan Free Territory.md",
-    "States/Eastern Continent/Republic of Larond.md",
+    "States/Eastern Continent/Confederation of Nestalia.md",
     "States/Eastern Continent/The Holy State of Dewbia & The Seat.md",
     "States/Western Continent/The Thornese Marches.md",
     "States/Western Continent/Queendom of Merrin.md",
     "States/Western Continent/Veloran Federation.md",
     "States/Western Continent/Protectorate of Crowden.md",
     "States/Western Continent/Ydartian Empire.md",
-    "Todo/States.md",
     "Map/Airmya 2025-10-04-22-01.map",
     "Map/Airmya 2025-10-04-23-21.map",
     "Map/Airmya 2025-10-04-23-41.map",
@@ -216,9 +218,7 @@
     "Map/Airmya 2025-10-05-00-49.map",
     "Map/Airmya 2025-10-05-01-38.map",
     "Map/Airmya 2025-10-05-01-47.map",
-    "States/Central Continent/Ulban Empire.md",
     "2025-10-05.md",
-    "States/Central Continent/Duchy of Gler.md",
     "States/Central Continent/Vylkale Republic.md",
     "Cultures/Other/Stau (Gnomish).md",
     "States/Central Continent/Kingdom of Cloud.md",
