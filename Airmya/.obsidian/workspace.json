@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "States/Eastern Continent/Confederation of Nestalia.md",
+                "file": "Todo/1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confederation of Nestalia"
+              "title": "1.0"
             }
           }
         ],
@@ -190,6 +190,19 @@
   },
   "active": "4a4b0271b57fb8a1",
   "lastOpenFiles": [
+    "Map/Airmya Cultural Map 2025-10-08-01-30.png",
+    "Map/Airmya Political Map 2025-10-08-01-29.png",
+    "Map/Airmya Population Map 2025-10-08-01-29.png",
+    "Map/Airmya 2025-10-08-01-29.png",
+    "Map/Airmya 2025-10-07-19-26.map",
+    "Map/Airmya 2025-10-07-23-22.map",
+    "Map/Airmya 2025-10-08-01-10.map",
+    "Map/Airmya 2025-10-08-01-12.map",
+    "Map/Airmya 2025-10-08-01-15.map",
+    "Map/Airmya 2025-10-08-01-26.map",
+    "Map/Airmya 2025-10-08-01-28.map",
+    "Map/Airmya 2025-10-07-01-43.map",
+    "States/Eastern Continent/Confederation of Nestalia.md",
     "States/Central Continent/Duchy of Gler.md",
     "States/Central Continent/Ulban Empire.md",
     "Todo/1.0.md",
@@ -201,7 +214,6 @@
     "States/Eastern Continent/Grand Nyhel.md",
     "States/Eastern Continent/Kingdom of Ghorok.md",
     "States/Eastern Continent/Srurdan Free Territory.md",
-    "States/Eastern Continent/Confederation of Nestalia.md",
     "States/Eastern Continent/The Holy State of Dewbia & The Seat.md",
     "States/Western Continent/The Thornese Marches.md",
     "States/Western Continent/Queendom of Merrin.md",
@@ -210,21 +222,12 @@
     "States/Western Continent/Ydartian Empire.md",
     "Map/Airmya 2025-10-04-22-01.map",
     "Map/Airmya 2025-10-04-23-21.map",
-    "Map/Airmya 2025-10-04-23-41.map",
-    "Map/Airmya 2025-10-05-21-37.map",
-    "Map/Airmya 2025-10-05-18-39.map",
-    "Map/Airmya 2025-10-05-18-25.map",
-    "Map/Airmya 2025-10-05-16-33.map",
-    "Map/Airmya 2025-10-05-00-49.map",
-    "Map/Airmya 2025-10-05-01-38.map",
-    "Map/Airmya 2025-10-05-01-47.map",
     "2025-10-05.md",
     "States/Central Continent/Vylkale Republic.md",
     "Cultures/Other/Stau (Gnomish).md",
     "States/Central Continent/Kingdom of Cloud.md",
     "States/C.md",
     "Cultures/Other/Sarich (Draconic).md",
-    "Cultures/Other/Uruk (Orc).md",
-    "Cultures/Other/Sha (Goblins).md"
+    "Cultures/Other/Uruk (Orc).md"
   ]
 }
