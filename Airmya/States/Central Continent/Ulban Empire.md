@@ -1,5 +1,5 @@
 - Continent spanning empire
-- Suzerain to the [[Duchy of Gler]]
+- Suzerain to the [[States/Central Continent/Duchy of Gler]]
 - Common Languages 
 	- Common⭐
 	- Dwarven
