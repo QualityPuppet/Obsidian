@@ -6,7 +6,7 @@
 	- Elven
 	- Gnomish ⭐
 - Demonym
-	- Glerran
+	- Glerran, grease monkeys (derogatory), tinkerers (neutral/derogatory)
 - Capital
 	- Breislach
 - Government
