@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd5e1a4603a9f1d5",
+        "id": "4ae048e0a7afe75f",
         "type": "tabs",
         "children": [
           {
-            "id": "9297887e5345e5b1",
+            "id": "3cafb967c069ff53",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Airmya/States/Central Continent/Duchy of Gler.md",
-                "bFile": "Airmya/States/Central Continent/Duchy of Gler.md",
+                "aFile": "Airmya/States/Eastern Continent/Tian'Xe.md",
+                "bFile": "Airmya/States/Eastern Continent/Tian'Xe.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Duchy of Gler"
+              "title": "Diff: Tian'Xe"
             }
           }
         ]
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9297887e5345e5b1",
+  "active": "3cafb967c069ff53",
   "lastOpenFiles": [
     "States/Eastern Continent/Tian'Xe.md",
     "Todo/1.1.md",

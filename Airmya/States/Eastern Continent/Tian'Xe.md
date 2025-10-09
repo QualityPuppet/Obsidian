@@ -10,7 +10,7 @@
 - Government
 	- Absolute Monarchy
 - Leader
-	- Yue Xin - Moon Empress
+	- [[Yue Xin]] - Moon Empress
 		- The Moon Empress' rule is absolute.
 		  A unique dragon, imbued by the power of the lunar goddess, she is not only representative of a terrifying regional power, but also a driving force behind the power Tian'Xe holds.
 		- Whilst Yue Xin herself is pragmatic ruler at heart, the Moon Empress brooks no disrespect, ruling with an iron fist, expecting competency and strength from her subjects, and reasonable deference from foreign powers.
