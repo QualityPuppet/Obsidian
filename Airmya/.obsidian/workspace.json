@@ -11,14 +11,14 @@
             "id": "3cafb967c069ff53",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Airmya/States/Eastern Continent/Tian'Xe.md",
-                "bFile": "Airmya/States/Eastern Continent/Tian'Xe.md",
-                "aRef": ""
+                "file": "States/Central Continent/Atenian Council.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Tian'Xe"
+              "icon": "lucide-file",
+              "title": "Atenian Council"
             }
           }
         ]
@@ -179,12 +179,24 @@
   },
   "active": "3cafb967c069ff53",
   "lastOpenFiles": [
-    "States/Eastern Continent/Tian'Xe.md",
-    "Todo/1.1.md",
-    "Airmya 2025-10-09-03-07.map",
-    "Notable People/Eastern Continent/Tian'Xe/Yue Xin.md",
-    "Notable People/Eastern Continent/Tian'Xe",
     "States/Western Continent/Ydartian Empire.md",
+    "States/Central Continent/Atenian Council.md",
+    "States/Central Continent/Vylkale Republic.md",
+    "States/Eastern Continent/The Holy State of Dewbia & The Seat.md",
+    "the Holy State of Dewbia.md",
+    "Todo/1.1.md",
+    "States/Western Continent/Council of Aleri.md",
+    "States/Central Continent/Duchy of Gler.md",
+    "States/Eastern Continent/Tian'Xe.md",
+    "States/Eastern Continent/Commonwealth of Belia.md",
+    "Map/1.0/Airmya Diplomatic Matrix.png",
+    "Map/1.0/Airmya Cultural Map 2025-10-08-01-30.png",
+    "Map/1.0/Airmya Population Map 2025-10-08-01-29.png",
+    "Map/1.0/Airmya Political Map 2025-10-08-01-29.png",
+    "States/Western Continent/Tsardom of Sotyn.md",
+    "Notable People/Eastern Continent/Tian'Xe/Yue Xin.md",
+    "Airmya 2025-10-09-03-07.map",
+    "Notable People/Eastern Continent/Tian'Xe",
     "Notable People/Western Continent/Council of Aleri.md",
     "Notable People/Eastern Continent/Commonwealth of Belia.md",
     "Notable People/Central Continent/Atenian Council.md",
@@ -201,23 +213,12 @@
     "Notable People/Eastern Continent/The Holy State of Dewbia & The Seat.md",
     "Notable People/Eastern Continent/Srurdan Free Territory.md",
     "Notable People/Eastern Continent/Kingdom of Ghorok.md",
-    "Notable People/Eastern Continent/Grand Duchy of Amaly.md",
-    "Notable People/Eastern Continent/Dhogan Clans.md",
-    "Notable People/Eastern Continent/Dezukhan Sultanate.md",
-    "Notable People/Eastern Continent/Confederation of Nestalia.md",
-    "Notable People/Central Continent/Ulban Empire.md",
-    "Notable People/Central Continent/Duchy of Gler.md",
     "Notable People/Western Continent",
     "Notable People/Eastern Continent",
     "Notable People/Central Continent",
     "Notable People",
-    "Royal Dragons.md",
-    "Map/1.0/Airmya Diplomatic Matrix.png",
     "Map/Map Archive/Airmya 2025-10-09-03-07.map",
     "Map/Map Archive/Airmya 2025-10-08-01-28.map",
-    "Map/1.0/Airmya Population Map 2025-10-08-01-29.png",
-    "Map/1.0/Airmya Political Map 2025-10-08-01-29.png",
-    "Map/1.0/Airmya Cultural Map 2025-10-08-01-30.png",
     "Map/Airmya 2025-10-08-01-29.png"
   ]
 }

@@ -1,0 +1,22 @@
+- Statocracy
+- Is a satrapy of?
+- Common Languages
+	- Common
+	- Main Regional Language ⭐
+- Demonym
+	- Glerran, 「Ulban, Ulbanian」, Vylkalian, Amalay, 「Soldier of the Glorious Horde, 」, lizard fucker (derogatory), tree hugger (derogatory), heretic (derogatory), tinkerer (neutral/derogatory), faithful (positive, self-referential)
+- Capital
+	- As title
+- Government
+	- Federal Republic, Constitutional Monarchy, etc
+- Leader
+	- Name - Title
+		- Brief description of Role
+		- Brief description of Leader
+- Legislature
+	- Name for the legislature
+		- Description of Legislature
+	- How did the politial circumstances come to fruition
+- Culture
+	- Description of culture
+- Interesting concepts to explore
