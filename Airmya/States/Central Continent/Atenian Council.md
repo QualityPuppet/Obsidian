@@ -1,11 +1,15 @@
 - Council of Representatives
+- National Language
+	- Hershun
+		- Common
+		- Necril
 - Common Languages
 	- Common ⭐
 	- Elven
 	- Draconic
 	- Gnomish
 - Demonym
-	- Atenian, beaters (derogatory, refers to The Heart)
+	- Atenian, beaters (derogatory, refers to The Heart), Atarai
 - Capital
 	- The Heart (official)/Heart City (colloquial)
 - Government
@@ -18,7 +22,7 @@
 		- The First Speaker is the head of state and the *de facto* leader of the executive branch
 		- The First Speaker has the right to make executive decisions for the government, 
 - Legislature
-	- The Council of Nine and the Electorate
+	- [[The Council of Nine]] and the Electorate
 		- The Executive branch is the Council of Nine, and are appointed by Provincial Electors from the Electorate
 		- The Legislative branch is the Electorate, functioning as a House of Representatives, any ties within the Electorate are broken by the Council of Nine
 		- The Judicial branch is represented by a mix of appointed and elected judges, spread between the High Courts and the Low Courts respectively, with the High Courts dealing with laws that impact the entire country, and the Low Courts dealing with day-to-day legality.

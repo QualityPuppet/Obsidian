@@ -9,7 +9,7 @@
 	- Halfling (Regional)
 	- Jotun (Regional)
 	- Orc (Regional)
-	- Numerous other languages relevant to the trading partners of aregion
+	- Numerous other languages relevant to the trading partners of a region
 - Demonym
 	- Vylkalian, Kallan, "the merchants" (neutral/derogatory), travellers (derogatory)
 - Capital

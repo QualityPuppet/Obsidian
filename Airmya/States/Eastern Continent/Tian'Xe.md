@@ -1,7 +1,12 @@
 - Absolute Monarchy
+- National Language
+	- Che'yun
+		- Draconic
+		- Elven
 - Common Languages
 	- Common
 	- Draconic ⭐
+	- Elven
 	- Dwarven
 - Demonym
 	- Tian, Xe'an, lizard fuckers (derogatory), heretics (derogatory)

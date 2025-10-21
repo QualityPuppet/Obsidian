@@ -1,5 +1,8 @@
 - Gnomish Burg
 - Satrapy of the [[States/Central Continent/Ulban Empire]]
+- National Language
+	- Ulban
+		- Common
 - Common Languages 
 	- Common
 	- Dwarven
@@ -12,7 +15,7 @@
 - Government
 	- Technocracy
 - Leader
-	- Vurver - Head Overseer to the Glerran guilds
+	- [[Vurver]] - Head Overseer to the Glerran guilds
 		- The Head Overseer is not allowed to participate in guild activities, and serves a much more administrative role than most heads of state, ensuring that no corners are cut and no laws are broken
 		- Vurver himself is the 86th Head Overseer, and has proven to be incorruptible in his role, much to the chagrin of opportunistic traders and [[States/Central Continent/Ulban Empire|Ulban]] politicians
 - Legislature
