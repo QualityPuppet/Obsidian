@@ -9,7 +9,10 @@
 	- Elven
 	- Dwarven
 - Demonym
-	- Tian, Xe'an, lizard fuckers (derogatory), heretics (derogatory)
+	- Tian
+	- Xe'an
+	- lizard fuckers (derogatory)
+	- heretics (derogatory, Dewbian insult)
 - Capital
 	- Xianchun (zyee-ahn-chyun)
 - Government

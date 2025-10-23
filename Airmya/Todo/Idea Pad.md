@@ -1,5 +1,5 @@
 - Mechanised units
-	- A country that lies on mechanical units
+	- A country that relies on mechanical units
 - Despite being general cunts, Dewbia and The Seat have angels in their military, though the angels refuse to partake in offensive wars against non-heretical/"evil" nations
 - Technocratic feudal Japan?
 - Belia being dragon riders, a sister state to Tian'Xe

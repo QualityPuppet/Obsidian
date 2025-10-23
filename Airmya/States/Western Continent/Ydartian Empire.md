@@ -11,10 +11,14 @@
 	- Jotun
 - Demonym
 	- Ydartian
+	- Ydar
+	- boot lickers (derogatory)
+	- cucks (roughly translated from [[Tosyn]])
+		- This is an insult used by the [[Tsardom of Sotyn|Sotyn]] people, referring to a common joke that the military hierarchy is so strict that if a Ydartian was given the order, they would do anything they're told
 - Capital
 	- Sorough
 - Government
-	- Emperor
+	- Stratocratic Monarchy
 - Leader
 	- Emperor [[Than Ydar]]
 		- Emperor

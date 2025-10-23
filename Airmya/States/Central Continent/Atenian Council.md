@@ -9,7 +9,7 @@
 	- Draconic
 	- Gnomish
 - Demonym
-	- Atenian, beaters (derogatory, refers to The Heart), Atarai
+	- Atenian, beaters (derogatory, refers to The Heart), Aterai
 - Capital
 	- The Heart (official)/Heart City (colloquial)
 - Government
