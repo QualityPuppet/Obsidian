@@ -29,9 +29,9 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
-nav:
+# nav:
  # this will generate the nav dynamically
-  - ... 
+  # - ... 
 # The index.md file is the home page from the `docs` folder
 
 markdown_extensions:
