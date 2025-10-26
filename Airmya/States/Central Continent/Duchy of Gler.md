@@ -3,6 +3,7 @@
 - National Language
 	- Ulban
 		- Common
+		- Gnomish (South Ulbanian dialect)
 - Common Languages 
 	- Common
 	- Dwarven

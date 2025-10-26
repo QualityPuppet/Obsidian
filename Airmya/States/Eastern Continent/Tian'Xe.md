@@ -1,4 +1,5 @@
 - Absolute Monarchy
+- Partner to [[Commonwealth of Belia]]
 - National Language
 	- Che'yun
 		- [[Draconic]]

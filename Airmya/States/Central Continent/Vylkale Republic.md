@@ -11,6 +11,7 @@
 	- Halfling (Regional)
 	- Jotun (Regional)
 	- Orc (Regional)
+	- Che'yun (Regional)
 	- Numerous other languages relevant to the trading partners of a region
 - Demonym
 	- Vylkalian, Kallan, "the merchants" (neutral/derogatory), travellers (derogatory)
@@ -30,7 +31,7 @@
 	- Allied regional governments
 		- The Vylkale Republic could, in theory, be considered to be a military and economic alliance between four minor powers, with their legal system being less a unified legal system, and more along the lines of diplomacy
 	- The motivation behind the unity of the Vylkalian peoples is the surrounding countries.
-	  Under normal circumstances they would most likely devolve into four separate nation-states, but they are bound by a common sense of patriotism and fear of the [[Ulban Empire|Ulban Empire,]] [[The Holy State of Dewbia & The Seat ❌|the Holy State of Dewbia]] and, to a lesser extent, the [[Atenian Council]].
+	  Under normal circumstances they would most likely devolve into four separate nation-states, but they are bound by a common sense of patriotism and fear of the [[Ulban Empire|Ulban Empire,]] [[The Holy State of Dewbia & The Seat|the Holy State of Dewbia]] and, to a lesser extent, the [[Atenian Council]].
 - Culture
 	- Description of culture
 - Interesting concepts to explore
