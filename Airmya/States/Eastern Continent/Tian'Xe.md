@@ -1,8 +1,8 @@
 - Absolute Monarchy
 - National Language
 	- Che'yun
-		- Draconic
-		- Elven
+		- [[Draconic]]
+		- [[Elven]]
 - Common Languages
 	- Common
 	- Draconic ⭐
@@ -29,9 +29,9 @@
 		  Whilst the position of provincial governor tends to be occupied by a [[Royal Dragons|Royal Dragon]], being a royal is not a requirement for the position, and Empress Xin frequently has to balance the concerns of maintaining Tian'Xe's perception as a meritocratic society against maintaining the perception of the [[Royal Dragons]] as an untouchable, unattainable, unchallengeable power.
 	- Tian'Xe's political landscape is unique among the major powers in that the distribution of power did not arise as a result of regional circumstances, but regional circumstances arised as a result of Yue Xin's own personal power, Empress Xin spent centuries building her reputation and skills as the ultimate arbiter of the direction of Tian'Xe, and the landscape of not just her country, but a large swathe of the [[Eastern Continent]], is as a result of Yue's decisions and own personal learnings.
 - Culture
-	- The culture of Tian'Xe, as with most other components of Tian society, were derived from Yue Xin and, as a result of her sojourn to the Alerian Isles, a large amount of the cultural development can be traced back to [[States/Western Continent/Council of Aleri|Aleri]] society.
+	- The culture of Tian'Xe, as with most other components of Tian society, were derived from Yue Xin and, as a result of her sojourn to the Alerian Isles, a large amount of the cultural development can be traced back to [[Council of Aleri|Aleri]] society.
 	- To the average Xe'an, a dragon's authority and power is absolute, the worth of a person is the worth that they contribute towards the [[Royal Dragons]].
 	  Whilst this sounds dystopian and autocratic, the result is a collectivist society, for in order for the Xe'an to succeed in supporting the [[Royal Dragons]], they must succeed in supporting Tian'Xe.
 	  In this way, the humanoids of Tian'Xe mirror Yue Xin herself, as the average Xe'an is expected to be competent and represent power in all facets of society, whether that is the strength of a warrior cutting down their enemies or the strength of a farmer who carries the weight and responsibility of feeding the myriad populace of their country.
 - Interesting concepts to explore
-	- A monastic order that de jure does not answer to the Moon Empress, but de facto does
+	- A [[monastic order]] that de jure does not answer to the Moon Empress, but de facto does

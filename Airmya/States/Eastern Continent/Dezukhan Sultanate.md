@@ -1,7 +1,15 @@
 - Devolved Sultanate
+- National Language
+	- Dayhan
+		- [[Common]]
+		- Thalassic
 - Common Languages
 	- Common
-	- Main Regional Language ⭐
+	- Thalassic
+	- Necril (Intelligence agencies)
+	- Orcish
+	- Goblin
+	- Dwarven
 - Demonym
 	- Dezukhan
 	- Dezan
@@ -22,9 +30,8 @@
 		  As of the moment, the north and the south function as autonomous kingdoms, each with a sultan overseeing their own Maridian, each largely ignoring the occasional demands of the Caliph, placating him with perfunctory gifts.
 		  Given the neutering of the office, Ridha effectively functions as a PR tool for the sultans, being incredibly popular among the peasantry due to his whimsical nature and his tendency to simply give out gifts from the Maridian of Szazurjin, a wellspring of considerable power and depth.
 - Legislature
-	- Name for the legislature
-		- Description of Legislature
-	- How did the politial circumstances come to fruition
+	- Federated Sultanates
+		- The government of the Dezukhan Sultanate is a federation of nominally independent regions united under the Dezan Caliph
 - Culture
 	- The Dezukhan's history is largely contextualised by their longstanding relationship with the Faydhaan[^1], who often frequent the cities of the Dezan, whilst the origin of the relationship is lost to the annals of time[^2], the Dezan worship the djinni in the same manner as the [[Tian'Xe|Ce'an]] might worship dragons.
 	  Regardless of the exacts of Dezan history, the Dezan were granted the [[Maridian Wellsprings]], oases of magically imbued water, infused with the magic of the djinn.

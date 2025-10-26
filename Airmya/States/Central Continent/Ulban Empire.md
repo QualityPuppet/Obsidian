@@ -1,7 +1,38 @@
-- Continent spanning empire
+- Federated empire
 - Suzerain to the [[States/Central Continent/Duchy of Gler]]
-- Common Languages 
+- National Language 
 	- Common⭐
 	- Dwarven
 	- Elven
 	- Gnomish (Southern Ulban)
+- Common Languages
+	- Common
+	- Elven
+	- Gnomish
+	- Dwarven
+	- Sakvroth (Regional)
+	- Draconic (Regional)
+	- Orcish (Regional)
+	- Goblin (Regional)
+	- Che'yun
+- Demonym
+	- Ulban/Ulbanian
+	- Warmongers
+- Capital
+	- As title
+- Government
+	- Federal Republic, Constitutional Monarchy, etc
+- Leader
+	- [[Arin Aschenbrenner]][^1] - Emperor
+		- The Ulbanian Emperor is the final word in Ulban politics
+		- Arin Aschenbrenner is a young, charismatic man who started out as a prince of his local polity with high ambitions, even before taking the throne at age 18, the age dictated by Ulban law (at the time the provincial law of Aschenburg) he was putting plans in motions to unite the disparate Ulban kingdoms, and moved at frightening speed to unite the provinces together.
+- Legislature
+	- Name for the legislature
+		- Description of Legislature
+	- How did the politial circumstances come to fruition
+- Culture
+	- Ulbania is an empire comprising a number of previously independent kingdoms, united under the Aschen banner and, as a result, the Ulban culture is a mixed but related bag of cultures under a thin veneer of unity, with constant conspiracy and jockeying for position between the Ulban kings.
+- Interesting concepts to explore
+	- [[Ulban crusaders]]
+
+[^1]: lit. "Ash Burner"

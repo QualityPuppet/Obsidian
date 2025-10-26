@@ -31,10 +31,11 @@
 	- Originally the Electorate was a small special interest group representing the will of the people, which slowly grew to represent the will of the entire of Atenia
 	  Eventually the accretion of the Electorate grew to the point whereby the Council could not maintain its power through sheer will alone and, rather than let itself die out, proposed a system whereby the Council would be elected from the Electorate.
 	- This was not done for free by the Council, and the grandfathered Council were entitled to remain in their positions until death, resignation, or a vote of No Confidence.
-		- Of the initial council, 3 resigned (two peacefully, one due to a diplomatic error), 2 were ousted by way of a vote, and 4 died whilst serving.
+		- Of the initial council, 3 resigned (two peacefully, one after making a diplomatic mistake), 2 were ousted by way of a vote, and 4 died whilst serving.
 - Culture
 	- Atenian culture is derived widely from decentralised agricultural ancestors, who eventually banded together over time under the watch of mage-kings who named themselves The Nine, who, after uniting the Atenian provinces, led a Magocracy where decisions were dictated by a vote between The Nine.
-	- Eventually The Nine voted, in unanimity, on a decision to undertake an extreme magical experiment requiring all nine of their powers combined, resulting in the creation of The Heart, which has dominated Atenian culture since
+	- Eventually The Nine voted, in unanimity, on a decision to undertake an extreme magical experiment requiring all nine of their powers combined, resulting in the creation of The Heart, which has dominated Atenian culture since.
+	  Very few people know what The Heart truly is, and those who do guard the secret as if their life depends on it.
 
 - Interesting concepts to explore
 	- The central power to Atenia is [[The Heart]], that needs to be built out ig

@@ -7,3 +7,4 @@
 - We can rely on Athel to build out our religion, but loosen the couplings between the pantheons
 	- Maybe have an official "Dewbian" pantheon and have every state have state religions that they care a lot less about
 	- Do races want their own gods?
+- Tilly and that guy from the HE save

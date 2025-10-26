@@ -1,9 +1,9 @@
 - Stratocracy
 - National Language
 	- Ydarri
-		- Common
-		- Draconic
-		- Sakvroth
+		- [[Common]]
+		- [[Draconic]]
+		- [[Sakvroth]]
 - Common Languages
 	- Common
 	- Draconic
