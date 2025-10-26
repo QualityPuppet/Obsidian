@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"052c97d4654ade70","type":"file","file":"Allie/Allie's Family and Friends/Ryko Meko.md","x":-480,"y":-200,"width":400,"height":400},
+		{"id":"168e25df65e81c81","type":"file","file":"Allie/Alaria Nymariel.md","x":-480,"y":-680,"width":400,"height":400},
+		{"id":"0934b7620e610305","type":"file","file":"Allie/Allie's Family and Friends/Anarella Nymariel.md","x":0,"y":-200,"width":400,"height":400},
+		{"id":"901e671ff6c1c75e","x":-920,"y":-200,"width":400,"height":400,"type":"file","file":"Allie/Allie's Family and Friends/Darian Solwyn.md"},
+		{"id":"c31e634cd1b3bd67","x":0,"y":280,"width":400,"height":400,"type":"file","file":"Allie/Allie's Family and Friends/Nera Valethorn.md"},
+		{"id":"cc7fef9633759878","x":460,"y":280,"width":400,"height":400,"type":"file","file":"Allie/Allie's Family and Friends/Tomoe.md"}
+	],
+	"edges":[
+		{"id":"1d1d8c5e270dc444","fromNode":"168e25df65e81c81","fromSide":"bottom","toNode":"052c97d4654ade70","toSide":"top"},
+		{"id":"6b662440bbd8a6d7","fromNode":"168e25df65e81c81","fromSide":"bottom","toNode":"0934b7620e610305","toSide":"top"},
+		{"id":"547664df9ab5438c","fromNode":"0934b7620e610305","fromSide":"bottom","toNode":"c31e634cd1b3bd67","toSide":"top"},
+		{"id":"bc06b385bba53dbe","fromNode":"0934b7620e610305","fromSide":"bottom","toNode":"cc7fef9633759878","toSide":"top"},
+		{"id":"863879c1f156c696","fromNode":"168e25df65e81c81","fromSide":"bottom","toNode":"901e671ff6c1c75e","toSide":"top"}
+	]
+}
