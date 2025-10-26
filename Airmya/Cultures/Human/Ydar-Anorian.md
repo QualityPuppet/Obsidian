@@ -1,3 +1,0 @@
-- Humans
-- Most commonly referred to as Ydartian (yuh-dar-shun)
-- An offshot of Anorian culture that evolved in the conditions of the autocratic Ydartian empire

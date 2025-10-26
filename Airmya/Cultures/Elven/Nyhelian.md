@@ -1,2 +1,0 @@
-- High Elves
-- Links to dragons

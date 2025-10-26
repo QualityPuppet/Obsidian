@@ -1,1 +1,0 @@
-- Does not have a penis (CANON)(REAL)
