@@ -1,7 +1,4 @@
-# Example of a more complicated config file for `MKDocs`
-# This one takes more action to handle formatting and theming
-
-site_name: Dan's Notes
+site_name: Airmya
 theme:
   name: material
   features:
@@ -31,8 +28,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  # Custom color settings
-  custom_dir: .overrides
 
 nav:
  # this will generate the nav dynamically
@@ -42,8 +37,8 @@ nav:
 markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: dan1229
-      repo: obsidian-dans-notes
+      user: qualitypuppet
+      repo: Obsidian
       normalize_issue_symbols: true
   - pymdownx.superfences
   - pymdownx.tasklist:
