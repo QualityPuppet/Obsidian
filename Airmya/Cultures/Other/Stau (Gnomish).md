@@ -1,0 +1,2 @@
+- Gnomish
+- Entirely contained in the [[States/Central Continent/Duchy of Gler]], a satrapy of the [[States/Central Continent/Ulban Empire]]

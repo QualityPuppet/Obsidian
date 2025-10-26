@@ -1,0 +1,3 @@
+- Humans
+- Most other human cultures are descended from Anorian culture, with the exception of the Dast
+- The majority of the Anor are in the Ulban Empire

@@ -1,0 +1,41 @@
+- Council of Representatives
+- National Language
+	- Hershun
+		- Common
+		- Necril
+- Common Languages
+	- Common ⭐
+	- Elven
+	- Draconic
+	- Gnomish
+- Demonym
+	- Atenian, beaters (derogatory, refers to The Heart), Aterai
+- Capital
+	- The Heart (official)/Heart City (colloquial)
+- Government
+	- Atenia is represented by 9 Council members made up of, and appointed by Provincial Electors, functioning as the executive branch of government
+		- Once the Council has been sworn in, the Provincial Electors become Electorates, politicians in a House of Representatives, the legislative branch of the state
+		- The separation of powers acts as a counterbalance, as the Electors that are chosen to be part of the Executive branch are removed from the Legislative branch
+		- If there is not a valid majority or plurality on a vote, the vote is passed to the Council, and if the Council cannot form a majority, the First Speaker is vested with the power to tiebreak, making the First Speaker have the largest amount of soft power among Atenians
+- Leader
+	- First Speaker
+		- The First Speaker is the head of state and the *de facto* leader of the executive branch
+		- The First Speaker has the right to make executive decisions for the government, 
+- Legislature
+	- [[The Council of Nine]] and the Electorate
+		- The Executive branch is the Council of Nine, and are appointed by Provincial Electors from the Electorate
+		- The Legislative branch is the Electorate, functioning as a House of Representatives, any ties within the Electorate are broken by the Council of Nine
+		- The Judicial branch is represented by a mix of appointed and elected judges, spread between the High Courts and the Low Courts respectively, with the High Courts dealing with laws that impact the entire country, and the Low Courts dealing with day-to-day legality.
+	- The politics of Atenia are dictated by its preceding magocratic polity, with the Council of Nine acting as a direct predecessor to The Nine
+	- The original rendition of the Council was a simple executive Council which grew after a spate of minor rebellions against the lack of representation, the compromise being the Electorate
+	- Originally the Electorate was a small special interest group representing the will of the people, which slowly grew to represent the will of the entire of Atenia
+	  Eventually the accretion of the Electorate grew to the point whereby the Council could not maintain its power through sheer will alone and, rather than let itself die out, proposed a system whereby the Council would be elected from the Electorate.
+	- This was not done for free by the Council, and the grandfathered Council were entitled to remain in their positions until death, resignation, or a vote of No Confidence.
+		- Of the initial council, 3 resigned (two peacefully, one after making a diplomatic mistake), 2 were ousted by way of a vote, and 4 died whilst serving.
+- Culture
+	- Atenian culture is derived widely from decentralised agricultural ancestors, who eventually banded together over time under the watch of mage-kings who named themselves The Nine, who, after uniting the Atenian provinces, led a Magocracy where decisions were dictated by a vote between The Nine.
+	- Eventually The Nine voted, in unanimity, on a decision to undertake an extreme magical experiment requiring all nine of their powers combined, resulting in the creation of The Heart, which has dominated Atenian culture since.
+	  Very few people know what The Heart truly is, and those who do guard the secret as if their life depends on it.
+
+- Interesting concepts to explore
+	- The central power to Atenia is [[The Heart]], that needs to be built out ig

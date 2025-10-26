@@ -1,0 +1,3 @@
+- Human
+- The Lan, in comparison to the [[Anorian]] and [[Ydar-Anorian]] cultures, is less strict and more communal, with an emphasis on farming and sea-faring communities.
+	- This doesn't mean they _don't_ engage in commerce and warfare, to the contrary with two empires on their doorstep they have a rich martial tradition, but they don't adhere to the strict regimentation of the Anorians

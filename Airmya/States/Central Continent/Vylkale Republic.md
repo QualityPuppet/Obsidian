@@ -1,0 +1,37 @@
+- Mercantile Republic
+- National Language
+	- N/A - The main language of [[Vylkale]] is Common, with a large mish-mash of other national languages and regional dialects, due to the nature of the Vylkale Republic as the predominant mercantile nation, it has an outsized influence the natural evolution of common, which results in a phenomenon whereby an average Kallan can communicate at a base level with most of their regions common trading partners, albeit with broken grammar.
+- Common Languages
+	- Common⭐
+	- Elven (Official)
+	- Dwarven (Official)
+	- Draconic (Regional)
+	- Gnomish (Regional)
+	- Goblin (Regional)
+	- Halfling (Regional)
+	- Jotun (Regional)
+	- Orc (Regional)
+	- Che'yun (Regional)
+	- Numerous other languages relevant to the trading partners of a region
+- Demonym
+	- Vylkalian, Kallan, "the merchants" (neutral/derogatory), travellers (derogatory)
+- Capital
+	- Crowme (Official)
+	- Maberlloch (Regional)
+	- Inverlech (Regional)
+	- Theonbane (Regional)
+- Government
+	- Federal Republic, Constitutional Monarchy, etc
+- Leader
+	- N/A - Commander-in-Chief of the Joint Vylkalian Forces
+		- Being a Mercantile Republic, the four major regions of Vylkale do not hold a single leader, each region has their own standing military, their own legislative, executive and judicial branches.
+		- War is considered an absolute last resort for the average Vylakalian, but if it does become necessary to go to war in defense of Vylkale, the commander-in-chief is either a very complex affair involving a large degree of politicking, both to become the commander-in-chief and to *avoid* becoming the commander-in-chief.
+		  Ultimately, for those who seek to assert control of the military in wartime, it comes down to who is willing to provide the largest degree of funding to the army, with the military structure prevailing based on the amount of funding an individual region or merchant has provided, with regions often rallying behind specific candidates in order to ensure they can secure a lofty position, as winning a war in command of an army generally provides a large boost into the business traffic of the victorious generals.
+- Legislature
+	- Allied regional governments
+		- The Vylkale Republic could, in theory, be considered to be a military and economic alliance between four minor powers, with their legal system being less a unified legal system, and more along the lines of diplomacy
+	- The motivation behind the unity of the Vylkalian peoples is the surrounding countries.
+	  Under normal circumstances they would most likely devolve into four separate nation-states, but they are bound by a common sense of patriotism and fear of the [[Ulban Empire|Ulban Empire,]] [[The Holy State of Dewbia & The Seat|the Holy State of Dewbia]] and, to a lesser extent, the [[Atenian Council]].
+- Culture
+	- Description of culture
+- Interesting concepts to explore

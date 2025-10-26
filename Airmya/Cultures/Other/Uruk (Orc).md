@@ -1,0 +1,2 @@
+- Primarily an Orcish culture, but intermingled with goblinoids of various varieties
+- The Uruk tend to heavily interact with [[Sha'an]] goblins, though they tend to avoid other goblinoids given their tendency to not be bullied into following their lead
