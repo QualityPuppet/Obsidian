@@ -1,3 +1,4 @@
+#publish-me
 - Stratocracy
 - National Language
 	- Ydarri
