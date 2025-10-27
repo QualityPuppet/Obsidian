@@ -59,11 +59,18 @@ jobs:
       # Step 5: Preprocess Obsidian Features
       - name: Preprocess Obsidian Features
         run: |
+          echo "Pre-process"
           python .scripts/preprocess_dataviews.py
           find .site_content/ -type f -name "*.md" -exec sed -i 's/\[\[\(.*\)\]\]/[\1](\1.md)/g' {} \;
+          files = `ls ./`
+          for file in files
+          do
+            echo $file
+          done
           echo "Preprocessed Obsidian features in markdown files."
 
       # Step 6: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages
         run: |
+        echo "Deploy Site"
           mkdocs gh-deploy --force --config-file mkdocs.yml
