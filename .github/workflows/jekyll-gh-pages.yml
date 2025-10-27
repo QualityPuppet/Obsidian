@@ -63,7 +63,7 @@ jobs:
           python .scripts/preprocess_dataviews.py
           find .site_content/ -type f -name "*.md" -exec sed -i 's/\[\[\(.*\)\]\]/[\1](\1.md)/g' {} \;
           files = `ls ./`
-          for file in files
+          for file in $files
           do
             echo $file
           done
