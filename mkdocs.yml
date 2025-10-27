@@ -31,7 +31,8 @@ theme:
 
 nav:
  # this will generate the nav dynamically
-   - ...
+   - Airmya
+    - ...
 # The index.md file is the home page from the `docs` folder
 
 markdown_extensions:

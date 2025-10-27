@@ -8,15 +8,14 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Step 2: Set up Python
       - name: Setup Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
@@ -70,6 +69,4 @@ jobs:
 
       # Step 6: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages
-        run: |
-          echo "Deploy Site"
-          mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --force
