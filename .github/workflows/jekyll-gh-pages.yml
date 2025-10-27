@@ -35,8 +35,8 @@ jobs:
           # Define excluded folders that should never be published
           INCLUSION=("States" "Todo")
 
-          find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
-            # Check if file is in an excluded folder
+          find . -type f -exec grep {} \; | while IFS= read -r file; do
+            # Check if file is in an included folder
             SKIP=1
             for folder in "${INCLUSION[@]}"; do
               if [[ "$file" == *"/$folder/"* ]]; then
