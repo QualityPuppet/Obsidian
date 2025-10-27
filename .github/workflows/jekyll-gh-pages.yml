@@ -72,4 +72,4 @@ jobs:
       - name: Deploy MkDocs to GitHub Pages
         run: |
           echo "Deploy Site"
-          mkdocs gh-deploy --force --config-file mkdocs.yml
+          mkdocs gh-deploy --forc
