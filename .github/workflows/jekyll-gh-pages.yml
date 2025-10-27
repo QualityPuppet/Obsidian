@@ -18,7 +18,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.10'
+          python-version: "3.10"
 
       # Step 3: Install MkDocs and dependencies
       - name: Install MkDocs and Plugins
@@ -35,7 +35,7 @@ jobs:
           mkdir -p .site_content
           # Define excluded folders that should never be published
           EXCLUSION=("Journal" "TODO" "Feelings" "Private" "Templates")
-          
+
           find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
             # Check if file is in an excluded folder
             SKIP=0
@@ -72,5 +72,5 @@ jobs:
       # Step 6: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages
         run: |
-        echo "Deploy Site"
+          echo "Deploy Site"
           mkdocs gh-deploy --force --config-file mkdocs.yml
