@@ -37,11 +37,11 @@ jobs:
 
           find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
             # Check if file is in an excluded folder
-            SKIP=0
+            SKIP=1
             for folder in "${INCLUSION[@]}"; do
               if [[ "$file" -ne *"/$folder/"* ]]; then
                 echo "Skipping excluded file: $file"
-                SKIP=1
+                SKIP=0
                 break
               fi
             done
