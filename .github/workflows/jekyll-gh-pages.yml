@@ -33,21 +33,22 @@ jobs:
         run: |
           mkdir -p .site_content
           # Define excluded folders that should never be published
-          INCLUSION=("States" "People")
+          INCLUSION=("Ydartian")
 
           # find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
           find . -type f | while IFS= read -r file; do
             for folder in "${INCLUSION[@]}"; do
               if [[ "$file" == *"/$folder/"* ]]; then
-                echo "Skipping excluded file: $file"
+                echo "Copying file to .site_content/: $file"
                   cp --parents "$file" .site_content/
                 break
               fi
             done
           done
+
           cp index.md .site_content/ || true
           # cp -r .overrides .site_content/
-          echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
+          find .site_content/ -type f
 
       # Step 5: Preprocess Obsidian Features
       - name: Preprocess Obsidian Features
