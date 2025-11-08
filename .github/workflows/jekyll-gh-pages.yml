@@ -38,7 +38,7 @@ jobs:
           # find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
           find . -type f | while IFS= read -r file; do
             for folder in "${INCLUSION[@]}"; do
-              if [[ "$file" == *"/$folder/"* ]]; then
+              if [[ "$file" == *"$folder"* ]]; then
                 echo "Copying file to .site_content/: $file"
                   cp --parents "$file" .site_content/
                 break
