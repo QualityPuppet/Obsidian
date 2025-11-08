@@ -33,23 +33,17 @@ jobs:
         run: |
           mkdir -p .site_content
           # Define excluded folders that should never be published
-          INCLUSION=("States")
+          INCLUSION=("States" "People")
 
-          find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
-            # Check if file is in an excluded folder
-            SKIP=1
+          # find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
+          find . -type f | while IFS= read -r file; do
             for folder in "${INCLUSION[@]}"; do
-              if [[ "$file" -ne *"/$folder/"* ]]; then
+              if [[ "$file" == *"/$folder/"* ]]; then
                 echo "Skipping excluded file: $file"
-                SKIP=0
+                  cp --parents "$file" .site_content/
                 break
               fi
             done
-            
-            # Only copy if not in excluded folder
-            if [ $SKIP -eq 0 ]; then
-              cp --parents "$file" .site_content/
-            fi
           done
           cp index.md .site_content/ || true
           # cp -r .overrides .site_content/
