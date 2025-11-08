@@ -33,13 +33,13 @@ jobs:
         run: |
           mkdir -p .site_content
           # Define excluded folders that should never be published
-          INCLUSION=("Journal" "TODO" "Feelings" "Private" "Templates")
+          INCLUSION=("States")
 
           find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
             # Check if file is in an excluded folder
             SKIP=0
-            for folder in "${EXCLUSION[@]}"; do
-              if [[ "$file" == *"/$folder/"* ]]; then
+            for folder in "${INCLUSION[@]}"; do
+              if [[ "$file" -ne *"/$folder/"* ]]; then
                 echo "Skipping excluded file: $file"
                 SKIP=1
                 break

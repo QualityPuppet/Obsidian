@@ -21,7 +21,8 @@
 	- [[Aelara and Faelar Moonshadow]] - Head of the Azure Senate
 		- The Azure Senate is the congregation of [[Belian Dragon Riders]]
 		  Whilst the Azure Senate *de jure* sits above the Belian Parliament, in reality, the Azure Senate tends to mirror its progenitor, Kael, existing mostly as a ceremonial institution that doesn't interfere with the day-to-day comings and goings of Belia, mostly concerning itself with helping young dragons and training upcoming dragon riders.
-		- Aelara and Faelar are a pair-bonded rider and dragon, Faelar having taken the name of his paired rider, a rarity among dragons and their riders
+		- [[Aelara and Faelar]] are a pair-bonded rider and dragon, Faelar having taken the name of his paired rider, a rarity among dragons and their riders
+			- #todo remove to its own section
 			- Aelara and Faelar are rumoured to be in a relationship, something of a taboo for the [[Belian Dragon Riders]]
 	- [[Kael Songweaver]]
 		- Kael Songweaver is [[Yue Xin]]'s brother and counterpart, a dragon representing the aspect of the sun

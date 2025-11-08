@@ -1,0 +1,5 @@
+- [ ] ふく
+- [ ] freezer
+- [ ] toothpicks
+- [ ] keyboard?
+- [ ] washing tablets :(

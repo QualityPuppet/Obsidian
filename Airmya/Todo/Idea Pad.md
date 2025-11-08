@@ -1,3 +1,4 @@
+## Setting
 - Mechanised units
 	- A country that relies on mechanical units
 - Despite being general cunts, Dewbia and The Seat have angels in their military, though the angels refuse to partake in offensive wars against non-heretical/"evil" nations
@@ -8,3 +9,6 @@
 	- Maybe have an official "Dewbian" pantheon and have every state have state religions that they care a lot less about
 	- Do races want their own gods?
 - Tilly and Aesllanan from the HE save
+- Scarabs in Dezukhan Sultanate
+## Campaign
+- Lady with tail weapon
