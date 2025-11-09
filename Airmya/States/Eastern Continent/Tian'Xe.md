@@ -15,7 +15,7 @@
 	- lizard fuckers (derogatory)
 	- heretics (derogatory, Dewbian insult)
 - Capital
-	- Xianchun (zyee-ahn-chyun)
+	- Xianchun (zyahn-chun)
 - Government
 	- Absolute Monarchy
 - Leader

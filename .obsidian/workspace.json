@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airmya/States/Western Continent/Ydartian Empire.md",
+                "file": "Airmya/States/Central Continent/Duchy of Gler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ydartian Empire"
+              "title": "Duchy of Gler"
             }
           },
           {
@@ -223,8 +223,10 @@
   },
   "active": "21357c7f5478548a",
   "lastOpenFiles": [
-    "Airmya/States/Central Continent/Atenian Council.md",
+    "Airmya/States/Eastern Continent/Tian'Xe.md",
+    "Airmya/People/Eastern Continent/Yue Xin.md",
     "Airmya/States/Western Continent/Ydartian Empire.md",
+    "Airmya/States/Central Continent/Atenian Council.md",
     "Airmya/States/Eastern Continent/Commonwealth of Belia.md",
     "Airmya/People/Eastern Continent/Aelara and Faelar Moonshadow.md",
     "Airmya/Organisations/Eastern Continent/Commonwealth of Belia - People/Aelara and Faelar.md",
@@ -239,7 +241,6 @@
     "Airmya/States/Eastern Continent/Srurdan Free Territory.md",
     "Airmya/States/Eastern Continent/The Dominion of the Von Harstens.md",
     "Airmya/States/Eastern Continent/The Holy State of Dewbia & The Seat.md",
-    "Airmya/States/Eastern Continent/Tian'Xe.md",
     "Airmya/States/Central Continent/Ulban Empire.md",
     "Airmya/States/Central Continent/Duchy of Gler.md",
     "Buylist.md",
@@ -249,7 +250,6 @@
     "Airmya/Todo/1.1.md",
     "Discord Statuses.md",
     "Ragged Band/Sessions/Session 12.md",
-    "Ragged Band/Sessions/Session 11.md",
     "Airmya/Factions/Western Continent",
     "Airmya/Factions/Eastern Continent/Tian'Xe - Factions",
     "Airmya/Factions/Eastern Continent",
