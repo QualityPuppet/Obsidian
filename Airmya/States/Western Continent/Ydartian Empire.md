@@ -33,7 +33,7 @@
 	  The [Ulban Empire](../Central%20Continent/Ulban%20Empire.md) to the south, despite the fact that they do not have the military-first organisation that Ydar has, is both aggressive and expansionist, the [[Tsardom of Sotyn]] and [[Queendom of Merrin]] to the north are insular, but quick to rouse, Ydar has not always been as friendly with the [[Veloran Federation]] as they are now, and the [[Atenian Council]], whilst not overtly hostile, has historically caused no end of problems with their magical experimentation.
 	  To add to the precarious local geopolitics, the Ydar-Anorians that comprise the majority of the populace of Ydar, since time immemorial, has been plagued with a wide manner of foes, both bestial and magical.
 	  All that has inexorably pushed Ydar towards a strong, cohesive military, and they brook no disunity within their ranks.
-aa
+bb
 ## Culture
 As above, the Ydar have a strict military hierarchy, and their culture prides strength and cunning above all else.
 
