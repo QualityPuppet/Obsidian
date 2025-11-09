@@ -35,5 +35,6 @@
 	  All that has inexorably pushed Ydar towards a strong, cohesive military, and they brook no disunity within their ranks.
 ## Culture
 As above, the Ydar have a strict military hierarchy, and their culture prides strength and cunning above all else.
+
 Culturally they are strict, hierarchical, deviations from the norm are encouraged and celebrated if they serve the empire, but they have a legalistic culture, so deviations from the norm have to either follow the law, or be exceedingly well justified.
-- Interesting concepts to explore
+## Further exploration
