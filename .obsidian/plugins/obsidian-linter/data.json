@@ -169,7 +169,7 @@
     },
     "two-spaces-between-lines-with-content": {
       "enabled": true,
-      "line-break-indicator": "<br/>"
+      "line-break-indicator": "  "
     },
     "unordered-list-style": {
       "enabled": false,
