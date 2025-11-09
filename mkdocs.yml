@@ -61,7 +61,6 @@ markdown_extensions:
   - pymdownx.mark
   - tables
   - footnotes
-  - ezlinks
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -70,6 +69,7 @@ plugins:
   - search
   - awesome-pages
   - tags
+  - ezlinks
 
 # Source directory (where your markdown files are)
 docs_dir: .site_content
