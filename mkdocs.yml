@@ -69,7 +69,8 @@ plugins:
   - search
   - awesome-pages
   - tags
-  - ezlinks
+  - ezlinks:
+      wikilinks: true
 
 # Source directory (where your markdown files are)
 docs_dir: .site_content

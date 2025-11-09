@@ -1,5 +1,5 @@
 - Federated empire
-- Suzerain to the [[States/Central Continent/Duchy of Gler]]
+- Suzerain to the [[Duchy of Gler]]
 - National Language
 	- Ulban
 		- Common
@@ -30,7 +30,7 @@
 		- Somewhat paradoxically, there is a large amount of *de facto* devolution of powers as, while the emperor outwardly does not indulge in favouritism, kingdoms that tow the line often find that the enforcement of some of the laws the throne finds less important is left to the wayside, with the emperor's men "forgetting" about them.[^2]
 - Culture
 	- Ulbania is an empire comprising a number of previously independent kingdoms, united under the Aschen banner and, as a result, the Ulban culture is a mixed but related bag of cultures under a thin veneer of unity, with constant conspiracy and jockeying for position between the Ulban kings, avoiding the baleful gaze of an emperor who brooks no weakness in his polity.
-	- Under Arin's stewardship, almost every minor kingdom on the central continent has been absorbed by the Ulban, with the border friction with the Protectorate of Crowden[^3] coming to the inevitable result of war.
+	- Under Arin's stewardship, almost every minor kingdom on the central continent has been absorbed by the Ulban, with the border friction with the Protectorate of Crowden[^3] coming to the inevitable result of war.<br/>
 	  This has put all of the surrounding kingdoms on edge, and degraded the historic relations of the Ulban Kingdoms with their neighbours, chiefly Atenia and the Vylkalian Republic.
 - Interesting concepts to explore
 	- [[Ulban crusaders]]

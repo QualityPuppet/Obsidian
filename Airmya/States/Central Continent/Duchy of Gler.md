@@ -1,5 +1,5 @@
 - Gnomish Burg
-- Satrapy of the [[States/Central Continent/Ulban Empire]]
+- Satrapy of the [[Ulban Empire]]
 - National Language
 	- Ulban
 		- Common
