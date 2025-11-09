@@ -1,0 +1,1 @@
+ Aelara and Faelar are rumoured to be in a relationship, something of a taboo for the [[Belian Dragon Riders]]

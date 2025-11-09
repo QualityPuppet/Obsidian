@@ -8,7 +8,7 @@
 	- dragon fucker (derogatory)
 	- half-breed (common insult to Belians due to the metropolitan nature of the state)
 	- Tian'Xe's bitch (derogatory, refers to country)
-	- \<lazy\> socialist (\<derogatory\>, affectionate)
+	- (lazy) socialist ((derogatory), affectionate)
 	- disrespectful (common Tian'Xe epithet, referring to the [[Belian Dragon Riders]], a concept the Ce'an people find disrespectful to their own [[Royal Dragons]], especially given that the bloodline of the [[Royal Dragons]] is intertwined with that of the dragons that the Belians ride on)
 - Capital
 	- Snowsho
@@ -19,11 +19,9 @@
 		- The Prime Minister is the elected head of government of the Belian Commonwealth, residing of the Belian Parliament
 		- Aella Dawnbringer is a respected Warforged war hero, having participated in a swathe of minor disputes with their neighbours, and being pivotal in stopping the expansion of the [[The Dominion of the Von Harstens|the Von Harstens]], a conflict in which she had her soul ripped from her body and placed in a soul gem which now powers her current form.
 	- [[Aelara and Faelar Moonshadow]] - Head of the Azure Senate
-		- The Azure Senate is the congregation of [[Belian Dragon Riders]]
+		- The Azure Senate is the congregation of the [[Belian Dragon Riders]]
 		  Whilst the Azure Senate *de jure* sits above the Belian Parliament, in reality, the Azure Senate tends to mirror its progenitor, Kael, existing mostly as a ceremonial institution that doesn't interfere with the day-to-day comings and goings of Belia, mostly concerning itself with helping young dragons and training upcoming dragon riders.
-		- [[Aelara and Faelar]] are a pair-bonded rider and dragon, Faelar having taken the name of his paired rider, a rarity among dragons and their riders
-			- #todo remove to its own section
-			- Aelara and Faelar are rumoured to be in a relationship, something of a taboo for the [[Belian Dragon Riders]]
+		- [[Aelara and Faelar Moonshadow|Aelara and Faelar]] are a pair-bonded rider and dragon, Faelar having taken the name of his paired rider, a rarity among dragons and their riders
 	- [[Kael Songweaver]]
 		- Kael Songweaver is [[Yue Xin]]'s brother and counterpart, a dragon representing the aspect of the sun
 		- Kael Songweaver is not technically a ruler[^1], however he is held in high esteem by the [[Belian Dragon Riders]], being an Aspect Dragon
