@@ -1,4 +1,3 @@
-check
 - Gnomish Burg
 - Satrapy of the [[States/Central Continent/Ulban Empire]]
 - National Language
