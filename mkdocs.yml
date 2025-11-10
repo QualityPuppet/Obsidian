@@ -1,6 +1,6 @@
 site_name: Airmya
 theme:
-  name: dracula
+  name: material
   features:
     - navigation.tabs
     - navigation.sections
@@ -71,6 +71,12 @@ plugins:
   - ezlinks:
       wikilinks: true
       warn_ambiguities: true
+  - pub-debugger
+  - pub-blog
+  - pub-obsidian
+  - pub-social
+  - pub-meta
+  - pub-minifier
 
 # Source directory (where your markdown files are)
 docs_dir: .site_content
