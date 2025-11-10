@@ -1,7 +1,6 @@
 ---
 publish: "true"
 ---
-
 ### Nation Details
 The Duchy of Gler, Satrapy of the [[Ulban Empire]]
 
