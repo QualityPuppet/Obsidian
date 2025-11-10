@@ -68,9 +68,9 @@ plugins:
   - search
   - awesome-pages
   # - tags
-  - ezlinks:
-      wikilinks: true
-      warn_ambiguities: true
+  # - ezlinks:
+  #     wikilinks: true
+  #     warn_ambiguities: true
   - pub-debugger
   - pub-blog
   - pub-obsidian
