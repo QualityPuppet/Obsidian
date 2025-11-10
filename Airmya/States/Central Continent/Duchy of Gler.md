@@ -1,4 +1,4 @@
-#### Nation Details
+### Nation Details
 The Duchy of Gler, Satrapy of the [[Ulban Empire]]
 
 **National Language**
@@ -16,7 +16,7 @@ The Duchy of Gler, Satrapy of the [[Ulban Empire]]
 - tinkerers (neutral/derogatory)
 **Capital**
 Breislach
-#### Government
+### Government
 **Technocracy**
 
 **Leader**
