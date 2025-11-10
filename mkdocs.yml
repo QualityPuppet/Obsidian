@@ -74,6 +74,10 @@ plugins:
   - pub-debugger
   - pub-blog
   - pub-obsidian
+      backlinks:
+        enabled: true
+      links:
+        wikilins_enabled: true
   - pub-social
   - pub-meta
   - pub-minifier
