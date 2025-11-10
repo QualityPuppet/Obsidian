@@ -73,11 +73,11 @@ plugins:
   #     warn_ambiguities: true
   - pub-debugger
   - pub-blog
-  - pub-obsidian
+  - pub-obsidian:
     backlinks:
       enabled: true
     links:
-      wikilins_enabled: true
+      wikilinks_enabled: true
   - pub-social
   - pub-meta
   - pub-minifier
