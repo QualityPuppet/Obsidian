@@ -19,7 +19,7 @@
 	- Crowme (Official)
 	- Maberlloch (Regional)
 	- Inverlech (Regional)
-	- Theonbane (Regional)
+	- Theorbane (Regional)
 - Government
 	- Federal Republic, Constitutional Monarchy, etc
 - Leader

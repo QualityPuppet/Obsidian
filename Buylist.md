@@ -1,5 +1,7 @@
 - [ ] ふく
 - [ ] freezer
-- [ ] toothpicks
+- [x] toothpicks
 - [ ] keyboard?
-- [ ] washing tablets :(
+- [x] washing tablets :(
+- [ ] memory foam mattress topper
+- [ ] adapter for toothbrush
