@@ -11,4 +11,10 @@
 - Tilly and Aesllanan from the HE save
 - Scarabs in Dezukhan Sultanate
 ## Campaign
+**Ideas**
 - Lady with tail weapon
+
+**Arcs**
+- Demon island arc
+- Prisoner arc
+- Holy Seat - Fugitive arc

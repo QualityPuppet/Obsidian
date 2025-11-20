@@ -1,33 +1,34 @@
-#### Nation Details
+---
+publish: "true"
+title: Duchy of Gler
+---
+### Nation Details
 The Duchy of Gler, Satrapy of the [[Ulban Empire]]
 
-**National Language**
+#### National Language
 - Ulban
 	- Common
 	- Gnomish (South Ulbanian dialect)
-**Common Languages**
+#### Common Languages
 - Common
 - Dwarven
 - Elven
 - Gnomish
-**Demonyms**
+#### Demonyms
 - Glerran
 - grease monkeys (derogatory)
 - tinkerers (neutral/derogatory)
-**Capital**
+#### Capital
 Breislach
-#### Government
+### Government
 **Technocracy**
-
-**Leader**
-
+#### Leader
 [[Vurver]] - Head Overseer to the Glerran guilds
 The Head Overseer is not allowed to participate in guild activities, and serves a much more administrative role than most heads of state, ensuring that no corners are cut and no laws are broken
 
 Vurver himself is the 86th Head Overseer, and has proven to be incorruptible in his role, much to the chagrin of opportunistic traders and [[Ulban Empire|Ulban]] politicians
 
-**Legislature**
-
+#### Legislature
 **House of Guild Representatives**
 
 Each guild gets a certain amount of representatives, proportional to their output, which is a complex byzantine set of calculations and weightings measuring economic output and technological innovation, heavily influenced by both internal politicking and the politics of their sponsoring empire, the Ulban Empire

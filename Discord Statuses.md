@@ -1,3 +1,3 @@
 - she's just a poor boy from a po- wait what?
 - ANOTHER ONE DOWN LETS GOOOOO (Dick Cheney)
-- 
+- 疲れた、疲れる、疲れます、疲れて、疲れよう、疲れられる。。。え？まじです？
