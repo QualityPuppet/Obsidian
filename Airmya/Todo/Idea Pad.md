@@ -15,6 +15,13 @@
 - Lady with tail weapon
 
 **Arcs**
-- Demon island arc
-- Prisoner arc
+- An Island - Island arc
+- ?? Dealers choice - Prisoner arc
 - Holy Seat - Fugitive arc
+- Ulban Empire - Mercenary arc
+- ?? Dealers choice - Planar arc
+- Nestalia - Mercantile arc
+- Ydartia - War arc
+- The Heart - Investigation arc
+- Vylkalian Republic - Demons?
+- Von Harsten - Vampire arc

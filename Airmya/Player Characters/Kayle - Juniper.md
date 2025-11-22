@@ -1,0 +1,3 @@
+- Curse Maelstrom
+	- The curse is actually an entity
+	- Sometimes the entity can take over

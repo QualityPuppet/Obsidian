@@ -23,11 +23,11 @@ jobs:
       - name: Install MkDocs and Plugins
         run: |
           pip install mkdocs \
-            mkdocs-dracula-theme \
+            mkdocs-material \
             mkdocs-awesome-pages-plugin \
             pymdown-extensions>=10.0 \
             mkdocs-simple-hooks \
-            mkdocs-publisher
+            mkdocs-ezlinks-plugin
 
       # Step 4: Filter files and copy to temporary directory
       - name: Filter and Copy Public Notes

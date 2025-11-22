@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airmya/Todo/Idea Pad.md",
+                "file": "Airmya/Player Characters/Kayle - Juniper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea Pad"
+              "title": "Kayle - Juniper"
             }
           },
           {
@@ -237,28 +237,33 @@
   },
   "active": "7674be85b277838e",
   "lastOpenFiles": [
+    "Airmya/States/Eastern Continent/Dezukhan Sultanate.md",
+    "Airmya/Player Characters/Kayle - Juniper.md",
+    "Airmya/Player Characters",
+    "Airmya/Todo/Idea Pad.md",
+    "Ragged Band/Sessions/Session 13.md",
     "Pasted image 20251120205919.png",
+    "Airmya/Todo/test.md",
+    "Airmya/States/Central Continent/Ulban Empire.md",
+    "Airmya/States/Central Continent/Vylkale Republic.md",
+    "Airmya/States/Eastern Continent/Srurdan Free Territory.md",
+    "Airmya/States/Eastern Continent/The Dominion of the Von Harstens.md",
+    "Airmya/States/Eastern Continent/The Holy State of Dewbia & The Seat.md",
+    "Airmya/States/Eastern Continent/Tian'Xe.md",
     "Airmya/States/Western Continent/Ydartian Empire.md",
     "Airmya/States/Western Continent/Queendom of Merrin.md",
     "Airmya/States/Western Continent/Protectorate of Crowden.md",
-    "Airmya/States/Central Continent/Ulban Empire.md",
     "Airmya/States/Central Continent/Duchy of Gler.md",
     "Airmya/States/Central Continent/Atenian Council.md",
-    "Airmya/States/Central Continent/Vylkale Republic.md",
-    "Airmya/States/Eastern Continent/Dezukhan Sultanate.md",
-    "Airmya/States/Eastern Continent/Tian'Xe.md",
     "Airmya/Map/1.0/Airmya Political Map 2025-10-08-01-29.png",
     "Airmya/Map/1.0/Airmya Cultural Map 2025-10-08-01-30.png",
     "Airmya/Map/1.0/Airmya Population Map 2025-10-08-01-29.png",
     "Airmya/Map/1.0/Airmya Diplomatic Matrix.png",
     "Buylist.md",
     "Discord Statuses.md",
-    "Airmya/Todo/Idea Pad.md",
-    "Ragged Band/Sessions/Session 13.md",
     "Ragged Band/Sessions/Session 12.md",
     "Ragged Band/Sessions/Session 11.md",
     "Airmya/States/Western Continent/Tsardom of Sotyn.md",
-    "Airmya/States/Eastern Continent/The Holy State of Dewbia & The Seat.md",
     "Airmya/States/Western Continent/Council of Aleri.md",
     "Untitled.base",
     "Airmya/People/Eastern Continent/Yue Xin.md",
@@ -266,9 +271,6 @@
     "Airmya/People/Eastern Continent/Aelara and Faelar Moonshadow.md",
     "Airmya/Organisations/Eastern Continent/Commonwealth of Belia - People/Aelara and Faelar.md",
     "Airmya/Factions/Eastern Continent/Commonwealth of Belia - Factions",
-    "Airmya/Organisations/Eastern Continent/Comm.md",
-    "Airmya/States/Eastern Continent/Confederation of Nestalia.md",
-    "Airmya/States/Eastern Continent/Dhogan Clans.md",
     "Airmya/Factions/Western Continent",
     "Airmya/Factions/Eastern Continent/Tian'Xe - Factions",
     "Airmya/Factions/Eastern Continent",
@@ -276,7 +278,6 @@
     "Airmya/Organisations/Untitled",
     "Airmya/Factions",
     "index.md.exclude",
-    "Allie/Canvas - Allie!.canvas",
-    "Allie/Sessions"
+    "Allie/Canvas - Allie!.canvas"
   ]
 }
