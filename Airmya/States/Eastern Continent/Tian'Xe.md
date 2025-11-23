@@ -34,5 +34,3 @@
 	- To the average Xe'an, a dragon's authority and power is absolute, the worth of a person is the worth that they contribute towards the [[Royal Dragons]].
 	  Whilst this sounds dystopian and autocratic, the result is a collectivist society, for in order for the Xe'an to succeed in supporting the [[Royal Dragons]], they must succeed in supporting Tian'Xe.
 	  In this way, the humanoids of Tian'Xe mirror Yue Xin herself, as the average Xe'an is expected to be competent and represent power in all facets of society, whether that is the strength of a warrior cutting down their enemies or the strength of a farmer who carries the weight and responsibility of feeding the myriad populace of their country.
-- Interesting concepts to explore
-	- A [[monastic order]] that de jure does not answer to the Moon Empress, but de facto does

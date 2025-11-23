@@ -36,6 +36,3 @@
 	- Atenian culture is derived widely from decentralised agricultural ancestors, who eventually banded together over time under the watch of mage-kings who named themselves The Nine, who, after uniting the Atenian provinces, led a Magocracy where decisions were dictated by a vote between The Nine.
 	- Eventually The Nine voted, in unanimity, on a decision to undertake an extreme magical experiment requiring all nine of their powers combined, resulting in the creation of The Heart, which has dominated Atenian culture since.
 	  Very few people know what The Heart truly is, and those who do guard the secret as if their life depends on it.
-
-- Interesting concepts to explore
-	- The central power to Atenia is [[The Heart]], that needs to be built out ig
