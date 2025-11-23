@@ -34,7 +34,8 @@ jobs:
         run: |
           mkdir -p .site_content
           # Define excluded folders that should never be published
-          INCLUSION=("States" "People")
+          # INCLUSION=("States")
+          INCLUSION=("Atenia" "Dezukhan" "Tian" "Ulb" "Gler" "Ydar")
 
           # find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
           find . -type f | while IFS= read -r file; do
