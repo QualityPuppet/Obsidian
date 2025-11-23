@@ -48,7 +48,6 @@ jobs:
           done
 
           cp index.md .site_content/ || true
-          cp -r .overrides .site_content/
           find .site_content/ -type f
 
       # Step 5: Preprocess Obsidian Features
