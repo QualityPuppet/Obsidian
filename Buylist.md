@@ -5,3 +5,4 @@
 - [x] washing tablets :(
 - [ ] memory foam mattress topper
 - [ ] adapter for toothbrush
+- [ ] batteries

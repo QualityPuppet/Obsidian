@@ -25,11 +25,5 @@
 	- [[Kael Songweaver]]
 		- Kael Songweaver is [[Yue Xin]]'s brother and counterpart, a dragon representing the aspect of the sun
 		- Kael Songweaver is not technically a ruler[^1], however he is held in high esteem by the [[Belian Dragon Riders]], being an Aspect Dragon
-- Legislature
-	- Parliament
-		- 
-- Culture
-	- Description of culture
-- Interesting concepts to explore
 
 [^1]: A fact that draws him much ire from [[Yue Xin]]
