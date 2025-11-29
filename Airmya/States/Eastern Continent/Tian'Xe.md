@@ -11,7 +11,7 @@
 	- Dwarven
 - Demonym
 	- Tian
-	- Xe'an
+	- Ce'an
 	- lizard fuckers (derogatory)
 	- heretics (derogatory, Dewbian insult)
 - Capital
