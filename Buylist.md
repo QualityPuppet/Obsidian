@@ -6,3 +6,4 @@
 - [ ] memory foam mattress topper
 - [ ] adapter for toothbrush
 - [ ] batteries
+- [ ] clothes horse
