@@ -3,3 +3,4 @@
 - 疲れた、疲れる、疲れます、疲れて、疲れよう、疲れられる。。。え？まじです？
 - the tamurkhussy got me feelin' strange
 - holy fuck £2.50 for a Rustlers BBQ Pork Rib Sandwich
+- *looks at Christianity* woah! neat ultraman reference!

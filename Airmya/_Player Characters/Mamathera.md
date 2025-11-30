@@ -9,6 +9,8 @@ What I can change freely
 - What has happened to her daughter
 - Who the witch in the woods is
 - What's happened to Mamathera's family in between her last seeing them and now
+- When fleeing Atenia, Athera and her wife were assisted by her criminal network
+	- Were they betrayed?
 
 Collaborative
 - Her faction/org
