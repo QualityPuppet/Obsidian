@@ -53,14 +53,14 @@
             "id": "f46d64a4b3079494",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Discord Statuses.md",
-                "bFile": "Discord Statuses.md",
-                "aRef": ""
+                "file": "Buylist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Discord Statuses"
+              "icon": "lucide-file",
+              "title": "Buylist"
             }
           }
         ],
@@ -225,9 +225,9 @@
   "lastOpenFiles": [
     "Discord Statuses.md",
     "Buylist.md",
-    "Airmya/_Player Characters/Yubei.md",
-    "Airmya/_Player Characters/Mamathera.md",
-    "Airmya/_Player Characters/Juniper.md",
+    "Airmya/__Player Characters/Yubei.md",
+    "Airmya/__Player Characters/Mamathera.md",
+    "Airmya/__Player Characters/Juniper.md",
     "Ragged Band/Sessions/Session 15 - Kretos gets chewed out.md",
     "Ragged Band/Sessions/Session 14 - Allie gets kidnapped (then unkidnapped).md",
     "Ragged Band/Sessions/Session 13.md",
@@ -249,7 +249,7 @@
     "Airmya/States/Eastern Continent/Dezukhan Sultanate.md",
     "Airmya/States/Eastern Continent/Confederation of Nestalia.md",
     "Airmya/States/Central Continent/Vylkale Republic.md",
-    "Airmya/_Player Characters",
+    "Airmya/__Player Characters",
     "Pasted image 20251120205919.png",
     "Airmya/Map/1.0/Airmya Political Map 2025-10-08-01-29.png",
     "Airmya/Map/1.0/Airmya Cultural Map 2025-10-08-01-30.png",
