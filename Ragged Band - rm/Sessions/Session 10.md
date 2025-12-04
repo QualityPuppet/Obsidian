@@ -1,2 +1,0 @@
-We took a tourney to some hills, touched some crystal, a red hand crawled up Allie and unlocked a door with an ominous looking dude escaping, Galadrius then got stunned and Korvax got mind controlled
-Turns out fighting someone who can cast 7th levels is a bad idea.
