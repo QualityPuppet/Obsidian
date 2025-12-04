@@ -53,14 +53,14 @@
             "id": "f46d64a4b3079494",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Buylist.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Discord Statuses.md",
+                "bFile": "Discord Statuses.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Buylist"
+              "icon": "diff",
+              "title": "Diff: Discord Statuses"
             }
           }
         ],
@@ -223,17 +223,17 @@
   },
   "active": "f46d64a4b3079494",
   "lastOpenFiles": [
+    "Discord Statuses.md",
+    "Buylist.md",
     "Airmya/_Player Characters/Yubei.md",
     "Airmya/_Player Characters/Mamathera.md",
     "Airmya/_Player Characters/Juniper.md",
     "Ragged Band/Sessions/Session 15 - Kretos gets chewed out.md",
     "Ragged Band/Sessions/Session 14 - Allie gets kidnapped (then unkidnapped).md",
     "Ragged Band/Sessions/Session 13.md",
-    "Discord Statuses.md",
     "Airmya/States/Eastern Continent/Tian'Xe.md",
     "Ragged Band/Sessions/Session 11.md",
     "Airmya/States/Eastern Continent/Commonwealth of Belia.md",
-    "Buylist.md",
     "Airmya/States/Western Continent/Ydartian Empire.md",
     "Airmya/States/Western Continent/Veloran Federation.md",
     "Airmya/States/Western Continent/Tsardom of Sotyn.md",
