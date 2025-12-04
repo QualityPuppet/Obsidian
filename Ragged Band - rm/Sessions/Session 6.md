@@ -1,0 +1,7 @@
+- We went exploring for some herbs for [[../Allie/Allie's Acquaintances/Kretos]]
+- We found an abandoned granite block that was being transported
+- On the floor, [[../Allie/Allie's Acquaintances/Korvak]] found a pouch containing a blicker ball, about the size of a golf ball, which, when thrown, teleports the user to its location.
+	- It is not 100% accurate
+- Korvak blinked into a field of dead minotaur and met [[../Allie/Allie's Acquaintances/Cormac]]
+- Cormac revealed that [[../Allie/Allie's Acquaintances/Kretos]] had ghoul fever, and in order to fixed it, gave him the kiss, turning him into a vampire
+- Cormac's lineage is also [[../Allie/Allie's Family and Friends/Nera Valethorn]]'s lineage, making him her vampiric granddaughter

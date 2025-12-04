@@ -5,7 +5,7 @@ In this life she sequestered herself for several centuries researching the arcan
 Allie spent most of the first century of her life honing her power within her new body
 Around her eighth decade in this incarnation, Allie came across a criminal syndicate and set herself the task of dismantling it.
 
-[[Anarella Nymariel]] (nee ???, as an orphan she didn't *have* a last name) was born, a new soul, as an urchin, she was brimming with magical power but had no outlet for it, which resulted in her swiftly being orphaned and kidnapped a decade before she came of age
+[[Allie's Family and Friends/Anarella Nymariel]] (nee ???, as an orphan she didn't *have* a last name) was born, a new soul, as an urchin, she was brimming with magical power but had no outlet for it, which resulted in her swiftly being orphaned and kidnapped a decade before she came of age
 Whilst taking out one of their larger slave rings, Allie came across Ana and set her free.
 
 Ana's parents had been killed brutally, and she'd been kept under lock and key in awful conditions, trying her best to avoid invoking the wrath of her captors
@@ -48,9 +48,9 @@ When one of the two were to die, the other would simply commit suicide and they 
  
 Allie, once again, remained bereft of her memories from reincarnation four bar the memory of Ana[^12]
 She currently lives a charmed life, despite her general demeanour she has a few people she cares for (a record, for her), in particular 
-- A particularly [[Tomoe|exuberant guard lieutenant]] who insisted on being friends with her
+- A particularly [[Allie's Family and Friends/Tomoe|exuberant guard lieutenant]] who insisted on being friends with her
 - Two court staff (a mage, an alchemist)
-- [[Darian Solwyn|A noble inventor]]
+- [[Allie's Family and Friends/Darian Solwyn|A noble inventor]]
 - One of her maids[^16][^17]
 
 Despite all this, Allie has decided to take a journey for multiple reasons.
